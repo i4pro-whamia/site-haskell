@@ -304,7 +304,7 @@ getListarOrdemR = do
                       <marquee>
                        <h1> Bem Vindo a Feira do Seu Alexandre !!!                      
                      <center>
-                         <img src=@{StaticR feira_jpg}>
+                         <img src=@{StaticR vpn_svg} alt="Montagem de boas-vindas para a VPN">
                          <br>
                          <a class="botao" href=@{FrutaR}>Cadastrar Fruta</a>
                          <a class="botao" href=@{ListarFrutaR}>Lista De Frutas</a>
